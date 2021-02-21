@@ -2,7 +2,7 @@
 
 # Change the following if your C compiler isn't called 'gcc' (note that on Linux 
 # the default compiler is gcc but it can still be run as cc).
-CC=gcc
+CC=clang
 
 # And change this to your fvorite C compiler flags:
 CFLAGS = -O -g -W -Wall -D_USE_LIBM_MATH_H
